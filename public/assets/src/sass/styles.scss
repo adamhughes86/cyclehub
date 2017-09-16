@@ -16,5 +16,12 @@
 // Objects - reusable objects
 
 // Components - specific use cases
+@import 'components/header';
+@import 'components/nav';
+@import 'components/hero';
+@import 'components/section';
+@import 'components/card';
+@import 'components/calculator';
+@import 'components/footer';
 
 // Styles that need to load last
